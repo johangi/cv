@@ -1,0 +1,19 @@
+/* font-family: 'Oswald', sans-serif; */
+
+body {
+    background-color: rgb(126, 126, 142);
+}
+
+.headSection {
+    margin: 0;
+    padding: 0;
+}
+
+#headSection {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+#header {
+    font-size: 2rem;
+}
