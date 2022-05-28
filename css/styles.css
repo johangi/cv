@@ -59,3 +59,15 @@ a:hover,
 .boxHeader:hover {
     color: rgb(41, 41, 41);
 }
+
+.tilbake {
+    font-weight: bold;
+}
+
+#omMegText {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.3rem;
+    position: absolute;
+    left: 7%;
+    margin-right: 50%;
+}
