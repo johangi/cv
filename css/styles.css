@@ -72,11 +72,20 @@ a:hover,
     margin-right: 50%;
 }
 
+#kontaktListe,
+#annetListe,
 #utdanningListe{
     font-family: 'Oswald', sans-serif;
     font-size: 1.3rem;
     position: absolute;
     left: 7%;
     margin-right: 50%;
-    list-style: none;
+    list-style: symbols(">")
+}
+
+.skoleRedirect {
+    font-size: 1.3rem;
+    display: inline;
+    margin: 0;
+    text-decoration: underline;
 }
